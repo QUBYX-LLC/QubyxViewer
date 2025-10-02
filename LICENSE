@@ -1,0 +1,46 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+QubyxViewer
+Copyright (C) 2024 QUBYX Software Technologies LTD HK
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+===============================================================================
+LICENSE COMPATIBILITY NOTICE
+===============================================================================
+
+This software is licensed under GPL v3. However, it includes third-party
+libraries with different licenses:
+
+- Eigen (MPL 2.0): Compatible with GPL v3
+- Qt (GPL/LGPL): Compatible with GPL v3
+- ICCProfLib (ICC Software License v0.2): Compatible with GPL v3
+- QExtSerialPort (LGPL v2.1): Compatible with GPL v3
+
+Before redistributing this software, please ensure compliance with all
+third-party library licenses. Some libraries may require additional
+attribution or have restrictions on commercial use.
+
+===============================================================================
+DISCLAIMER
+===============================================================================
+
+The inclusion of third-party libraries does not imply endorsement by
+QUBYX Software Technologies LTD HK. Users are responsible for ensuring
+compliance with all applicable licenses when using or redistributing
+this software.
+
+For questions regarding third-party library licenses, please contact
+the respective copyright holders or visit their official websites.

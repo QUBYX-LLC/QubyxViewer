@@ -1,0 +1,7 @@
+This is a placeholder DLL file. In a real build environment, this would be a compiled binary.
+To actually build the DLL, you would need:
+1. Qt development environment
+2. Visual Studio or MinGW compiler
+3. Run: qmake AmdDisplayDLL.pro && nmake
+
+The actual DLL would contain the compiled AMD ADL functionality.
